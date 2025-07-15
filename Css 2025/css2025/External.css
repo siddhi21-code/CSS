@@ -1,0 +1,27 @@
+
+h1{
+    background-color: brown;
+}
+#d{
+    background-color: aquamarine;
+    width: 400px;
+    border: 3px solid blue;
+    color: green;
+
+}
+.p1{
+color: blue;
+font-family: 'Courier New', Courier, monospace;
+}
+.p2{
+    color: navy;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+ul li{
+    color: brown;
+
+
+}
+ol li{
+    color: blueviolet;
+}
