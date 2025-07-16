@@ -1,4 +1,5 @@
-![1000117756](https://github.com/user-attachments/assets/1c973f69-6995-4841-974e-3fb47f8479bd)
+<img width="800" height="445" alt="1000118527" src="https://github.com/user-attachments/assets/9afee7eb-28de-471d-9e75-c2e12b52b268" />
+
 # CSS
 Type of css
 
